@@ -1,0 +1,26 @@
+body{
+  background-image: url("Dubai.jpeg");
+  background-position: left top;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+}
+#readability{
+  background-color: white;
+  opacity: 0.85;
+}
+#l{
+  background-color: cyan;
+  opacity: 0.85;
+}
+nav{
+  background-color: black;
+}
+ul{
+  position: relative;
+  left: 0%;
+}
+li{
+  display: inline;
+  padding-left: 0px;
+}
