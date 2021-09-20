@@ -1,9 +1,10 @@
 body{
-  background-image: url("Dubai.jpeg");
-  background-position: left top;
+  background-image: url("background.jpg");
+  background-position: top left;
   background-repeat: no-repeat;
-  position: relative;
-  background-size: cover;
+  background-size: 99% 100%;
+  padding: 2px;
+  margin-left: 4px;
 }
 #readability{
   background-color: white;
@@ -23,4 +24,11 @@ ul{
 li{
   display: inline;
   padding-left: 0px;
+}
+#Footer{
+  background-color: red;
+}
+#Footer img{
+  width: 35px;
+  top: 50%;
 }
